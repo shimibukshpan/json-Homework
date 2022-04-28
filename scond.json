@@ -1,0 +1,14 @@
+{
+    "Our Delivery": {
+        "City": ["Tel Aviv","Ashdod","Haifa","Rishon Lezion","Holon", "Jerusalem"],
+        "Delivery-time":"2-3 business days"
+    },
+    "Our promotions":{
+        "Up to 10% discount":["Children category, drama category"],
+        "Up to 15% discount":["Action category, love category"]
+    },
+    "Possibility to contact us":{
+        "phone number":"0547735899",
+        "email":"buki8060@gmail.com"
+    }
+} 

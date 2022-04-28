@@ -1,0 +1,57 @@
+{
+    "Our books":{
+        "Our categories":{
+            "Action stories":[
+                {
+                "name":"lorem ipsum",
+                "author":"lorem ipsum",
+                "prise": 66,
+                "id": 10,
+                "img": "Book1.jpg"
+                },
+
+                {
+                "name": "lorem ipsum",
+                "author":"lorem ipsum",
+                "prise": 66,
+                "id": 11,
+                "img": "Book1.jpg"
+                }
+            ],
+            "Drama stories":[
+                {
+                "name":"lorem ipsum",
+                "author":"lorem ipsum",
+                "prise": 66,
+                "id": 12,
+                "img": "Book1.jpg"
+                },
+
+                {
+                "name":"lorem ipsum",
+                "author":"lorem ipsum",
+                "prise": 66,
+                "id": 13,
+                "img": "Book1.jpg"
+                }
+            ],
+            "Love stories":[
+                {
+                "name":"lorem ipsum",
+                "author":"lorem ipsum",
+                "prise": 66,
+                "id": 14,
+                "img": "Book1.jpg"
+                },
+
+                {
+                "name":"lorem ipsum",
+                "author":"lorem ipsum",
+                "prise": 66,
+                "id": 15,
+                "img": "Book1.jpg"
+                }
+            ]
+        }
+    }
+}
